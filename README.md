@@ -1,5 +1,5 @@
 
-# Rolling GBM Monte Carlo Forecast
+# Rolling GBM Forecast with Monte Carlo Simulation
 
 This project implements a rolling-window Monte Carlo forecasting framework
 based on Geometric Brownian Motion (GBM) to predict next-day stock prices.
@@ -45,3 +45,4 @@ The dataset is used exclusively for educational and research purposes.
 
 ```r
 source("run_analysis.R")
+
